@@ -1,0 +1,102 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/metformin-synjardy---primary.py
+inputModule3:
+  class: File
+  path: python/metformin-bolamyn---primary.py
+inputModule4:
+  class: File
+  path: python/metformin-meijumet---primary.py
+inputModule5:
+  class: File
+  path: python/metformin-komboglyze---primary.py
+inputModule6:
+  class: File
+  path: python/metformin-eucrea---primary.py
+inputModule7:
+  class: File
+  path: python/metformin-glucophage---primary.py
+inputModule8:
+  class: File
+  path: python/metformin-solution---primary.py
+inputModule9:
+  class: File
+  path: python/metformin-500mg---primary.py
+inputModule10:
+  class: File
+  path: python/glucient-metformin---primary.py
+inputModule11:
+  class: File
+  path: python/metformin-dapagliflozin---primary.py
+inputModule12:
+  class: File
+  path: python/metformin-850mg---primary.py
+inputModule13:
+  class: File
+  path: python/metformin-jentadueto---primary.py
+inputModule14:
+  class: File
+  path: python/metformin-saxagliptin---primary.py
+inputModule15:
+  class: File
+  path: python/metformin-avandamet---primary.py
+inputModule16:
+  class: File
+  path: python/metformin-750mg---primary.py
+inputModule17:
+  class: File
+  path: python/metformin-glucamet---primary.py
+inputModule18:
+  class: File
+  path: python/metformin-metabet---primary.py
+inputModule19:
+  class: File
+  path: python/metformin-vildagliptin---primary.py
+inputModule20:
+  class: File
+  path: python/metformin-rosiglitazone---primary.py
+inputModule21:
+  class: File
+  path: python/metformin-vokanamet---primary.py
+inputModule22:
+  class: File
+  path: python/metformin-yaltormin---primary.py
+inputModule23:
+  class: File
+  path: python/metformin-sachet---primary.py
+inputModule24:
+  class: File
+  path: python/metformin-amaryl---primary.py
+inputModule25:
+  class: File
+  path: python/metformin-janumet---primary.py
+inputModule26:
+  class: File
+  path: python/metformin-xigduo---primary.py
+inputModule27:
+  class: File
+  path: python/metformin-sukkarto---primary.py
+inputModule28:
+  class: File
+  path: python/metformin-125mg---primary.py
+inputModule29:
+  class: File
+  path: python/metformin-suspension---primary.py
+inputModule30:
+  class: File
+  path: python/metformin-linagliptin---primary.py
+inputModule31:
+  class: File
+  path: python/metformin-canagliflozin---primary.py
+inputModule32:
+  class: File
+  path: python/metformin-orabet---primary.py
+inputModule33:
+  class: File
+  path: python/metformin-modifiedrelease---primary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
